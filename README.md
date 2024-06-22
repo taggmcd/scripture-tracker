@@ -2,7 +2,7 @@
 
 This bit of software will help you keep rtack of where yo uare at in your scripture reading.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SHcBPU8bpqI)
 
 # Development Environment
 
